@@ -1,0 +1,14 @@
+# Site Settings
+title: Start Jekyll
+email: pkitlas@me.com
+description: >
+  A guide to getting started with Jekyll.
+baseurl: '/jekylltest1.1'
+url: "https://pkitlas.github.io"
+github_username:  pkitlas
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
